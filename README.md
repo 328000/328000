@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I am 328000 👋
+
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=328000&color=blue&style=for-the-badge" alt="Profile Views" />
 
